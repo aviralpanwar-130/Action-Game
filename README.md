@@ -23,7 +23,4 @@ It is a browser game, made using HTML, CSS, JS.
    
        @ HTML, CSS, JS.
 
-
-
-
-      Made By:- Aviral Panwar
+       Made By:- Aviral Panwar
